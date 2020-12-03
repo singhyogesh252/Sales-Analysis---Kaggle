@@ -1,2 +1,2 @@
 # Sales-Analysis---Kaggle
-An analysis of sales of the products across USA.
+An analysis on sales of the digital products across USA.
